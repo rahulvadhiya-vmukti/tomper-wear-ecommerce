@@ -54,7 +54,7 @@ const SingleProductPage = () => {
   } = product;
 
   useEffect(() => {
-    document.title = `Tomper Wear | ${name}`;
+    document.title = `PRX Wear | ${name}`;
   }, [name]);
 
   if (loading) {

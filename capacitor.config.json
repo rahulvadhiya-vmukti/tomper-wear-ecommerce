@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "PRX-Wear",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}

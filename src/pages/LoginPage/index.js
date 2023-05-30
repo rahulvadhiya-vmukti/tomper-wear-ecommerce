@@ -44,7 +44,7 @@ function LoginPage() {
   }
 
   useEffect(() => {
-    document.title = 'Tomper Wear | Login';
+    document.title = 'PRX Wear | Login';
   }, []);
 
   return (

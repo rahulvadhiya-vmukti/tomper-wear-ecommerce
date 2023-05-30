@@ -5,7 +5,7 @@ import aboutImg from '../../assets/hero-bcg.jpeg';
 
 const AboutPage = () => {
   useEffect(() => {
-    document.title = 'Tomper Wear | About';
+    document.title = 'PRX Wear | About';
   }, []);
 
   return (

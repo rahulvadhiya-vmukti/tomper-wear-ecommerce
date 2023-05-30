@@ -35,7 +35,7 @@ function ResetPasswordPage() {
   };
 
   useEffect(() => {
-    document.title = 'Tomper Wear | Reset Password';
+    document.title = 'PRX Wear | Reset Password';
   }, []);
 
   return (

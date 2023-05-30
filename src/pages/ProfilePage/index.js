@@ -101,7 +101,7 @@ function ProfilePage() {
   };
 
   useEffect(() => {
-    document.title = 'Tomper Wear | Profile';
+    document.title = 'PRX Wear | Profile';
   }, []);
 
   return (

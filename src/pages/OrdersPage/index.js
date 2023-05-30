@@ -12,7 +12,7 @@ const OrdersPage = () => {
   } = useOrderContext();
 
   useEffect(() => {
-    document.title = 'Tomper Wear | Orders';
+    document.title = 'PRX Wear | Orders';
   }, []);
 
   if (loading) {
